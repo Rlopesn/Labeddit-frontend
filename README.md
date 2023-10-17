@@ -2,7 +2,7 @@
 
 #### O Labeddit Full Stack é um desafio final do bootcamp Web Full Stack da Labenu, que abrange desenvolvimento em backend e frontend. O foco é criar um aplicativo com design mobile-first, com ênfase na criação de uma API, implementando funcionalidades como autenticação de usuários e gerenciamento de banco de dados.
 
-[Clique para conferir o site!]()
+### [Acesse aqui o LABEDDIT](https://rafaellabeddit.surge.sh)
 
 [Repositório back-end](https://github.com/Rlopesn/Labecommerce-backend)
 
